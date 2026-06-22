@@ -96,6 +96,5 @@ Indiana Tech, Fort Wayne
 
 - **Email:** mounikapsmrth@gmail.com
 - **Phone:** +1 (470) 666-4823
-**MounikaPasumarthi9/MounikaPasumarthi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
