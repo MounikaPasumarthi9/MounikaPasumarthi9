@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:mounikapsmrth@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/moniikap/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/moniikap">LinkedIn</a> •
   <a href="https://github.com/your-github-username">GitHub</a>
 </p>
 
