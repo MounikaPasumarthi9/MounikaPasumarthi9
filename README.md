@@ -91,8 +91,8 @@ Indiana Tech, Fort Wayne
 - AWS Certified Data Engineer – Associate - https://cp.certmetrics.com/amazon/en/credentials/status/3555289
 - validation Number - 
 8d4621f00baa42b0a49d3aba02df21dd
-
-
+- Anthropic AI Fluency: Frameworks & Foundation Certification
+- Anthropic Claude 101
 ---
 
 ## Contact
